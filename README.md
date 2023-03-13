@@ -1,7 +1,7 @@
 # public_health_study
 Un étude de santé public avec Python
 
-Données sources  au format .csv, provenant de la FAO, obtenue ici: https://openclassrooms.com/fr/paths/324/projects/857/assignment
+Données sources  au format .csv, provenant de la FAO, obtenue ici: https://openclassrooms.com/fr/paths/324/projects/857/assignment.
 
 D'autres données peuvent être obtenue à partir du lien suivant: https://www.fao.org/faostat/fr/#home.
 
