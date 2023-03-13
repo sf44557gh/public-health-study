@@ -7,3 +7,5 @@ D'autres données peuvent être obtenue à partir du lien suivant: https://www.f
 
 Plusieurs points importants concernant l'analyse de données avec python sont mentionnés ici:
 https://diastat.fr/2023/03/03/travailler-sur-une-dataframe-avec-python/.
+
+English, German or Spanish translations are possible if needed.
