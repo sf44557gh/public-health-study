@@ -1,5 +1,5 @@
 # public_health_study_with_Python
-Un étude de santé public avec Python
+Un étude de santé public avec Python.
 
 Données sources  au format .csv, provenant de la FAO, obtenues ici: https://openclassrooms.com/fr/paths/324/projects/857/assignment.
 
